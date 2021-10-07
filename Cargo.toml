@@ -1,0 +1,10 @@
+[package]
+name = "noblklayer"
+version = "0.1.0"
+edition = "2018"
+license = "Apache-2.0"
+authors = ["Daniel P. Teberian"]
+description = "A crate to provide a bare-bones, non-blocking, I/O layer."
+repository = "https://github.com/LibertyOS-Development/noblklayer"
+
+[dependencies]
